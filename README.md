@@ -1,2 +1,3 @@
 # daniilrostov_microservices
-daniilrostov microservices repository
+
+Собран image в YC при помощи docker-machine
