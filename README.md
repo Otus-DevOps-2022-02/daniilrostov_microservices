@@ -1,2 +1,3 @@
 # daniilrostov_microservices
-daniilrostov microservices repository
+
+Make docker image in yc with docker-machine
