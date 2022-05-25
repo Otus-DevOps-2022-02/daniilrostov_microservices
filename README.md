@@ -2,4 +2,8 @@
 
 Make docker image in yc with docker-machine
 
-Make 3 docker image
+Make docker-3 image
+
+Make docker-4 image
+
+Addeed docker-compose with vars
