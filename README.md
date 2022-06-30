@@ -16,3 +16,5 @@ https://hub.docker.com/repository/docker/daniilrostov/prometheus
 https://hub.docker.com/repository/docker/daniilrostov/ui
 https://hub.docker.com/repository/docker/daniilrostov/post
 https://hub.docker.com/repository/docker/daniilrostov/comment
+
+Added kubernetes
