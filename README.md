@@ -18,3 +18,5 @@ https://hub.docker.com/repository/docker/daniilrostov/post
 https://hub.docker.com/repository/docker/daniilrostov/comment
 
 Added kubernetes
+
+Added Kuber manifests for dz kubernetes-2
